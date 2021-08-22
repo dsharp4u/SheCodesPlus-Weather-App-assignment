@@ -1,5 +1,3 @@
-import axios from "axios";
-
 const KELVIN = 459.67;
 const apiKey = "796615aa66205a1254376c90ff6d0826";
 const apiUrl = (city) =>
